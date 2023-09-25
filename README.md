@@ -93,4 +93,8 @@ To access the administrator area, log in with your admin credentials.
 
 ## 🎉 Conclusion
 
+![WhatsApp Image 2023-09-26 at 00 41 41](https://github.com/preethishanmugham/Waitlist_Application/assets/105535453/811404d0-b458-4cec-9ab1-e16f9aa51520)
+![WhatsApp Image 2023-09-26 at 00 41 42](https://github.com/preethishanmugham/Waitlist_Application/assets/105535453/c637c1f7-fd94-4396-9a17-ff87537e3c1a)
+![WhatsApp Image 2023-09-26 at 00 41 42](https://github.com/preethishanmugham/Waitlist_Application/assets/105535453/85fc9d8a-5ac7-4ca9-b955-bd9cddd92f1e)
+
 The Waitlist Application is designed to provide a smooth and interactive experience for potential customers eager to join the waiting list for a new iPhone product. It includes both user and administrator features to manage and monitor the waiting list effectively. Enjoy using the application and welcoming customers to the world of exciting new products! 📱✨
