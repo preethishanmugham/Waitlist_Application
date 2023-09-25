@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .login-btn {
+    @apply bg-black hover:bg-black active:bg-black text-white text-lg px-5 py-1 rounded-lg;
+
+  }
+  .login-input{
+    @apply px-4 py-1  border border-slate-300 rounded-lg shadow-none target:border-slate-300 focus:border-slate-100 hover:px-5  transition-all  delay-75
+  }
+}
