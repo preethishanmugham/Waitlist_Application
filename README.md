@@ -31,7 +31,7 @@ To set up the Waitlist Application, follow these steps:
 3. **Clone the Repository**: Clone the Waitlist Application repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/waitlist-application.git
+   git clone https://github.com/preethishanmugham/Waitlist_Application.git
    ```
 
 4. **Backend Setup**:
